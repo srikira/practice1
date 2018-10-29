@@ -1,0 +1,10 @@
+<suite name="HRM Automation">
+
+	<test name="TestScripts">
+	    <classes>
+	        <class name="TestScripts.Tc1_Login" ></class> 
+	        <class name="TestScripts.TC2_AddEmp" ></class>  
+	    </classes>
+	</test>
+
+</suite>

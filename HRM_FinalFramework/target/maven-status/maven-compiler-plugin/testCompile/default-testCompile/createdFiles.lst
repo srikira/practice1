@@ -1,0 +1,6 @@
+TestScripts\Tc1_Login.class
+TestScripts\RootTest.class
+TestScripts\TC2_AddEmp.class
+TestScripts\TC4.class
+TestScripts\TC3_AddLoc.class
+TestScripts\TC5.class

@@ -1,0 +1,10 @@
+<suite name="HRM Automation1">
+
+	<test name="TestScripts1">
+	    <classes>
+	        <class name="TestScripts.TC4" ></class> 
+	        <class name="TestScripts.TC5" ></class>  
+	    </classes>
+	</test>
+
+</suite>

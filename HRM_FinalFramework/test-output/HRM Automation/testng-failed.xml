@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [HRM Automation]">
+  <test name="TestScripts(failed)">
+    <classes>
+      <class name="TestScripts.TC2_AddEmp">
+        <methods>
+          <include name="AddEmployee"/>
+        </methods>
+      </class> <!-- TestScripts.TC2_AddEmp -->
+    </classes>
+  </test> <!-- TestScripts(failed) -->
+</suite> <!-- Failed suite [HRM Automation] -->
